@@ -1,2 +1,1 @@
-GGL
-VNC Server
+sudo apt-get install matchbox-keyboard
